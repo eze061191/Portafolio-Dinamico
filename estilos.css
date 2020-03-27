@@ -206,6 +206,10 @@ footer .redes-sociales .instagram {
   background: #c13584;
 }
 
+footer .redes-sociales .appwhatsapp {
+  background: green;
+}
+
 footer .redes-sociales a i {
   font-size: 20px;
   line-height: 60px;
@@ -247,6 +251,21 @@ footer .creado-por a {
 footer .creado-por a:hover {
   text-decoration: underline;
 }
+
+/* .appwhatsapp {
+  position: fixed;
+  right: 20px;
+  bottom: 80px;
+  width: 50px;
+  z-index: 1000;
+}
+
+.appwhatsapp i {
+  width: 100%;
+  height: auto;
+  color: green;
+  font-size: 50px;
+} */
 
 /* FOOTER */
 
